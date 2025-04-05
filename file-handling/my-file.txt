@@ -1,0 +1,2 @@
+This is the content of my-file.txt.
+This file will help you understand file handling.
